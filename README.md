@@ -1,4 +1,4 @@
 # sushommkdemo
 sample
 <br>
-Author-Sushom Khaire
+Author-Sushom Khaire (student)
